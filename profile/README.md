@@ -1,14 +1,14 @@
-## Konwencje repozytorium
+## Konwencje 
 
-### Nazwy
+### Nazwy repozytorium
 
 Format kebab-case, małe litery, język angielski: `nazwa-firmy-nazwa-projektu` np. `telnet-project`. 
 
 W przypadku rozdzielenia na serwer i klienta dopisać `server` lub `client` na końcu nazwy np. `telnet-project-server` oraz `telnet-project-client`.
 
-### Tworzenie
+### Tworzenie repozytorium
 
-Zasada: jedno rozwiązanie .NET, jedno repozytorium.
+Zasada: jedno repozytorium, jedno .NET solution.
 
-Do rozwiązania .NET dodajemy projekty które współdzielą środowisko, np. działają na tej samej wersji serwera COMARCH ERP XL, np. dodatki Hydry i programy korzystające z jego API.
+Do .NET solution dodajemy projekty które współdzielą środowisko, np. działają na tej samej wersji serwera COMARCH ERP XL, np. dodatki Hydry i programy korzystające z jego API.
 

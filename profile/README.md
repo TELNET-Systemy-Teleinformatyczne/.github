@@ -10,5 +10,5 @@ W przypadku rozdzielenia na serwer i klienta dopisać `server` lub `client` na k
 
 Zasada: jedno repozytorium, jedno .NET solution.
 
-Do .NET solution dodajemy projekty które współdzielą środowisko, np. działają na tej samej wersji serwera COMARCH ERP XL, np. dodatki Hydry i programy korzystające z jego API.
+Do .NET solution dodajemy projekty które współdzielą środowisko, np. działają na tej samej wersji serwera COMARCH ERP XL, np. dodatki Hydry wraz z programami korzystającymi z jego API.
 

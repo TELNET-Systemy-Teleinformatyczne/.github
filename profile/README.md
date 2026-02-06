@@ -1,6 +1,9 @@
 ## Konwencje
 
-1. Nazwy repozytorium
+### Nazwy repozytorium
 
-`nazwa-firmy-nazwa-projektu` np. `telnet-nowy-projekt`
+Format kebab-case, małe litery, język angielski: `nazwa-firmy-nazwa-projektu` np. `telnet-project`. W przypadku rozdzielenia na serwer i klienta dopisać `server` lub `client` np. `telnet-project-server` oraz `telnet-project-client`.
 
+### Tworzenie repozytorium
+
+Jedno .NET solution, jedno repozytorium
